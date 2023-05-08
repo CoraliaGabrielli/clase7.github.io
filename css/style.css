@@ -205,12 +205,3 @@ main {
     position: absolute;
     bottom: 0;    
 }
-
-@media (max-width: 320px) {
-.footer {
-    display: none;
-}
-}
-
-
-
